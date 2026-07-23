@@ -1,3 +1,5 @@
+package ex1001;
+
 import java.io.IOException;
 import java.util.Scanner;
 
