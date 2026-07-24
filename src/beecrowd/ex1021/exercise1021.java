@@ -1,4 +1,4 @@
-package ex1021;
+package beecrowd.ex1021;
 
 import java.io.IOException;
 import java.util.Locale;

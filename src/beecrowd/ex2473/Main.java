@@ -1,6 +1,5 @@
-package ex2473;
+package beecrowd.ex2473;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 import java.io.IOException;
 
